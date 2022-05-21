@@ -1,0 +1,22 @@
+{
+  "name": "imagesplittest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElliottPKim/imagesplittest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElliottPKim/imagesplittest/issues"
+  },
+  "homepage": "https://github.com/ElliottPKim/imagesplittest#readme",
+  "dependencies": {
+    "preloadjs": "^1.0.1"
+  }
+}

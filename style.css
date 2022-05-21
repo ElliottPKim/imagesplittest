@@ -8,9 +8,14 @@ body{
 }
 
 #display_image{
-    width:375px;
-    height:211px;
+    width:750px;
+    height:800px;
     border:1px solid black;
     background-position: center;
     background-size: cover;
 }
+
+
+  canvas {
+    display: block;
+  }
